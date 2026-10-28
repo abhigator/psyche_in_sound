@@ -1,6 +1,9 @@
-Psyche in Sound — Python dependencies
-
-Install with: python -m pip install -r requirements.txt
-
-numpy pandas scipy scikit-learn matplotlib seaborn joblib librosa
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+joblib
+librosa
 imageio-ffmpeg
